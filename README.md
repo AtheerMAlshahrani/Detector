@@ -1,40 +1,32 @@
 # Detector
 
-<img width="70" alt="appstore1024" src="https://user-images.githubusercontent.com/106028380/212088610-885c88eb-bdea-4b54-84b8-8cc22277f722.png"> 
+It's all an Illusion!
+
+<img width="128" alt="mac256" src="https://user-images.githubusercontent.com/117367464/212425553-2065916e-149d-4c45-a990-010772f94e0d.png">
+
+# Challenge Statement
+Help people focused on their task.
+
+# Solution Concept
+A voice detection for headphones addicts who needs a notification to know when there is someone calling them so they will not get distracted when they focus on their tasks.
+
+# Technologies & Tools
+- SwiftUI
+- Speech Recognition
+- Microphone
+- Accessibility (Color Blind)
+- Localization (AR)
+
+# App Demo
+
+https://user-images.githubusercontent.com/117367464/212421508-444b95fc-6aa7-4599-bb5c-6be3d8f3cf70.MOV
+
+# Challenge Summary
+An app that helps headphone users who want to focus on their tasks by notifying them when someone is calling by their names!
+
+![Aster_MakeSomeone'sLifeEasier _ADATWQ_2022_2023   001](https://user-images.githubusercontent.com/117367464/212429261-5a2a04af-3b55-4859-9ee0-da3abd94f75b.jpeg)
 
 
-### Welcome to the application Detector, where it helps to facilitate your life by giving you notifications when someone calls you!
-
-### The application aims to help all people to focus and also to provide support and help deaf people
-
-* We were asked about the following
-
-<img width="1125" alt="Screenshot 2023-01-12 at 05 09 28" src="https://user-images.githubusercontent.com/106028380/212074839-2cd647db-e6ee-4030-a2e7-fe25722d4d0c.png">
-
-* And we came to the next solution
-
-<img width="458" alt="Screenshot 2023-01-12 at 05 13 48" src="https://user-images.githubusercontent.com/106028380/212075681-a7cd5b1b-c380-41f6-8b6a-aa7f28518c51.png">
-
-
-## Techniques and tools
-used in this application
-
-1- App Miro to discuss the idea and define the features and goals
-
-2- App Sketch For destination design
-
-3- App Xcode for programming
-
-4- App Bakery cropping logo
-
-## Demo of your App
-
-
-## Challenge Summary
-
-* An application that solves the problem and suffering of all people, especially the deaf and those who have hearing loss.
-
-* The application aims to raise the quality of your concentration, where you can initially enter your name and run the application in the background and a market that in turn gives you an alert when someone calls you.
-
-* You can switch languages between Arabic and English.
-
+# Developers
+- Kawthar Almajhad : https://www.linkedin.com/in/kawthar-almajhad/
+- Atheer Alshahrani : https://www.linkedin.com/in/atheershahrani/
