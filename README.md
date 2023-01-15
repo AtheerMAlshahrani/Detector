@@ -19,7 +19,7 @@ A voice detection for headphones addicts who needs a notification to know when t
 
 # App Demo
 
-https://user-images.githubusercontent.com/117367464/212421508-444b95fc-6aa7-4599-bb5c-6be3d8f3cf70.MOV
+
 
 # Challenge Summary
 An app that helps headphone users who want to focus on their tasks by notifying them when someone is calling by their names!
